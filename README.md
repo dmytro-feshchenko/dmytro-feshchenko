@@ -33,12 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My stats ⭐
-
-<div align="center">
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-feshchenko&layout=compact&&langs_count=8"/>
-</div>
-
 <!--
 ### Business tips:
 - :paperclip: [My CV]()
